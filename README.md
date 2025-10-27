@@ -1,5 +1,5 @@
-#JavaScript Journey
-
+# JavaScript Journey
+ 
 Este repositório faz parte do meu **curso de aprendizado em JavaScript**, onde estou estudando os fundamentos da linguagem e aplicando os conceitos em pequenos projetos e exercícios práticos.  
 
 O objetivo é **fortalecer a base em programação** e construir uma base sólida para o desenvolvimento web e outras tecnologias relacionadas.
